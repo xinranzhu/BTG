@@ -1,0 +1,23 @@
+include("models.jl")
+include("gp.jl")
+include("btg_model.jl")
+include("btg_prediction.jl")
+include("btg_posterior.jl")
+#include("fast_btg_prediction.jl")
+include("btg_model/btg_conditional_posterior.jl")
+include("btg_model/btg_likelihood_derivative.jl")
+include("btg_model/btg_likelihood.jl")
+
+include("warped_model/warped_gp_likelihood.jl")
+include("warped_model/warped_gp_conditional_posterior.jl")
+include("btg_model/btg_conditional_posterior.jl")
+include("btg_model/btg_likelihood.jl")
+
+# utils
+include("utils/btg_optimize.jl")
+include("utils/list_dict_mapping.jl")
+include("utils/merge_results.jl")
+include("utils/show_results.jl")
+include("utils/compare_results.jl")
+include("utils/parse_input.jl")
+include("../utils/derivative/derivative_checker.jl")
