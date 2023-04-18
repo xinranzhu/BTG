@@ -1,1 +1,2 @@
 # BTG
+This is the code release for [Bayesian Transformed Gaussian Processes](https://openreview.net/pdf?id=4zCgjqjzAv) by [Xinran Zhu](https://xinranzhu.com/), Leo Huang, [Eric Hans Lee](https://www.linkedin.com/in/erichanslee/), [Cameron Alexander Ibrahim](https://scholar.google.com/citations?hl=en&user=VesSzr0AAAAJ), and [David Bindel](https://www.cs.cornell.edu/~bindel/).
